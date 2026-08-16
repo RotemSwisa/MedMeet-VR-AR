@@ -1,4 +1,4 @@
-# MedMeet - VR/AR Medical Meeting Platform
+# MedMeet - VR/AR Medical Meeting Platform <img width="80" height="80" alt="logo" src="https://github.com/user-attachments/assets/6d0a8b52-661f-4873-aaaf-b5cb82132dc2" />
 
 **A remote medical consultation should not be a flat video call.**
 
