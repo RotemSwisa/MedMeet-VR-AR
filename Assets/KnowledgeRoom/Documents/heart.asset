@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3694f4d87f9b6408dc4639ec77a698, type: 3}
+  m_Name: heart
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  documentTitle: hreat
+  category: 
+  isVideo: 0
+  pages:
+  - {fileID: 2800000, guid: 645b365ad4c3cfb4c8fd125c1fa695a8, type: 3}
+  - {fileID: 2800000, guid: b22ab747d96a0d249a6a29d9902e8f7b, type: 3}
+  - {fileID: 2800000, guid: 198a23129f6dd7b4683b9f189c3daf7c, type: 3}
+  - {fileID: 2800000, guid: 9fdb2824af0ae31478291d6cec5fc542, type: 3}
+  videoClip: {fileID: 0}

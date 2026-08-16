@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Course Library/Source Files/Sample Scenes/ModernRoom_Sample.unity
+    guid: bbae9a62884d5c744bb7fed2e671b6a4
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 1.2.unity
+    guid: 94313609bf6ab47a0acfbbe51944011d
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 1.3.unity
+    guid: 128288ebc9ad742caa1549397103ff4f
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 1.4.unity
+    guid: 4140fe7360bf24ca9bc12825294404a0
+  - enabled: 0
+    path: Assets/X_Demo_Room/04_Education/Education.unity
+    guid: 732e319db81409a42b89f8740ab0af66
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 1.5.unity
+    guid: f2f15d2f1594c43c7a7a59b0600ca337
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.1.unity
+    guid: 406fad61534f64044b3c0b9e6ff2fa9f
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.2.unity
+    guid: 77bcd644acc644684a4dbc2d147b27d2
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.3.unity
+    guid: d9e0ee5d810b84e27a659242271d176a
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.4.unity
+    guid: 118f566fd63a4423b9eee360162fabc8
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.5.unity
+    guid: 6c8a2b329dd83488f833a28b24116433
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.5 - experimental.unity
+    guid: de53c52bceaf54442ade0030037e1b2b
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 2.5 - Curric runthrough.unity
+    guid: 9b820dda141b5437dbdae6bc56953efe
+  - enabled: 0
+    path: Assets/Challenges/02_3DPainting/Scenes/3DPainting_Prototype_Fixed.unity
+    guid: f081cf7bfb0349a458dc3ac57389b1d4
+  - enabled: 0
+    path: Assets/Screencaptures/1.3 Screencapture/1.3 Screencapture.unity
+    guid: d674fcb00bbdc426eb1ffbea26fa7aca
+  - enabled: 0
+    path: Assets/Screencaptures/Grid Scene/Grid Scene.unity
+    guid: 7080dd783c8604a0b9f8edc807173bad
+  - enabled: 0
+    path: Assets/Personal Project/Scenes/Unit3.unity
+    guid: 8429db0f2f5a9b94b8059bf7ccdd6388
+  - enabled: 0
+    path: Assets/Scenes/Aaron S VR Room - 3.0 - Final Features.unity
+    guid: 0bbe3863d82c1480e9b99b37bbe01dca
+  - enabled: 0
+    path: Assets/Challenges/01_Architecture/Scenes/Architecture_Prototype_Broken.unity
+    guid: 15e24606183024cb792c3d70eb38662f
+  - enabled: 0
+    path: Assets/Challenges/01_Architecture/Scenes/Architecture_Prototype_Fixed.unity
+    guid: 973e34f410d9c456d8c3f6659a7d7589
+  - enabled: 0
+    path: Assets/Challenges/02_3DPainting/Scenes/3DPainting_Prototype_Broken.unity
+    guid: 19bf4d15314344c76bf47fab627b9084
+  - enabled: 0
+    path: Assets/Challenges/03_Training/Scenes/Training_Prototype_Fixed.unity
+    guid: f9d22c15abd6f4ec187ae474802ed4b8
+  - enabled: 0
+    path: Assets/Challenges/03_Training/Scenes/Training_Prototype_Broken.unity
+    guid: e10ba84ccef4c43aa995ace104c1bf8c
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: c251aef74cbfd5742955d25982fd03e4
+  - enabled: 1
+    path: Assets/Scenes/vr meeting.unity
+    guid: 27db7de597d97c24fb816fd22b8ecb07
+  - enabled: 0
+    path: Assets/Scenes/Simulation_Test.unity
+    guid: 309696fe3d2c7a346a9cc5f4cfb400ab
+  - enabled: 1
+    path: Assets/SurgeryScene/Scenes/main.unity
+    guid: c7fd858eeb2e87d4f97b693f1cb3027d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e3f999c3abbcc41c99f610f88fbd07bd, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 5d38af9b0bb79f242a67cf0b7307cace, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d4e5bdbec2c8f874f9430c3dc095ff25, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 252bea5c0aac647f381f7ac71f9619c7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 83269b782f201db48b7677797d4cb1a4, type: 2}
+  m_UseUCBPForAssetBundles: 0

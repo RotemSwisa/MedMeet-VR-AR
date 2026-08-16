@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a3694f4d87f9b6408dc4639ec77a698, type: 3}
+  m_Name: brain
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  documentTitle: brain
+  category: braindoktor
+  pages:
+  - {fileID: 2800000, guid: 7af08d9f7b0c4c7429e8f09c636f2dfa, type: 3}
+  - {fileID: 2800000, guid: d421fbc1d843e474a86c4092fe9236c2, type: 3}
+  - {fileID: 2800000, guid: 956362c2ebe72b84a90f59f0ad8275d4, type: 3}
+  - {fileID: 2800000, guid: af2bf1c0097c9b14cbf81294ecb7c31c, type: 3}
+  - {fileID: 2800000, guid: 1c9f33611871a684996d73431a47f223, type: 3}
+  - {fileID: 2800000, guid: f6012a6fb36c4484aa6a12bc1973e195, type: 3}
+  - {fileID: 2800000, guid: 2d8a96e5855296b4dbfd441089a07b61, type: 3}
+  - {fileID: 2800000, guid: 5a972320431c29c4b849ebe1d5dcbc98, type: 3}
+  - {fileID: 2800000, guid: c1e2e571959283f49bf9a3554f8b49f7, type: 3}
+  - {fileID: 2800000, guid: 91dd04cf4c54fae438f5d9e446cc5b8a, type: 3}
+  - {fileID: 2800000, guid: e3b0f5dc4faa3d244847e616b0c56a02, type: 3}
+  - {fileID: 2800000, guid: fd51b2ecc5c5f644687ab72684fb68cc, type: 3}
+  - {fileID: 2800000, guid: 0ca6f1ce0183d5d42abbf657b8f1ac19, type: 3}
+  - {fileID: 2800000, guid: 908e6daea8f96ea49a13685acbbf4b4f, type: 3}
